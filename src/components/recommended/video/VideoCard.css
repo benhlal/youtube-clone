@@ -1,0 +1,60 @@
+.videoCard {
+    margin-bottom: 40px;
+    width: 270px;
+}
+
+.videoCard__thumbnail {
+    height: 140px;
+    width: 250px;
+}
+
+.videoCard__info {
+    display: flex;
+    margin-top: 10px;
+    padding-right: 30px;
+}
+
+.videoCard__text {
+    margin-left: 15px;
+}
+
+.videoCard__text > h4 {
+    margin-bottom: 5px;
+    font-size: 14px;
+}
+
+
+.videoCard__text > p {
+    color: gray;
+    font-size: 14px;
+}
+
+.videoCard__avatar {
+    width: 30px !important;
+    height: 30px !important;
+}
+
+.videoCard__text__menu {
+    color: gray;
+}
+
+.videoCard__text__menu:hover {
+    color: white;
+    background-color: lightgray;
+    border-radius: 10px;
+}
+
+.menu__item {
+    display: flex;
+    align-items: center
+}
+
+.menu__item > span {
+    color: gray;
+    margin-left: 10px;
+}
+
+
+.menu__item > .MuiSvgIcon-root {
+    color: gray;
+}

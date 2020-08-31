@@ -1,0 +1,15 @@
+.sidebar {
+    width: 200px;
+}
+
+.separator {
+    height: 1px;
+    border: 0;
+    background-color: lightgray;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    justify-items: center;
+    margin-left: 10px;
+}
+
+
